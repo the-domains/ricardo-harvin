@@ -1,0 +1,29 @@
+name: Ricardo Harvin
+favicon: null
+layout_spectrum: 0.003101249458268285
+typography_spectrum: 0.8377216444350779
+title: Ricardo Harvin
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4303735315334052
+  lightness: 0.18151832185685635
+  saturation: 0.7297277713660151
+  rhythmicContrast: 0.24370172945782542
+purpose: []

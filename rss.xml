@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ricardo Harvin]]></title>
         <description><![CDATA[Ricardo Harvin]]></description>
-        <link>https://thegrid.ai/ricardo-harvin/</link>
+        <link>http://ricardoharvin.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 08:05:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ricardo-harvin/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 08:34:55 GMT</lastBuildDate>
+        <atom:link href="http://ricardoharvin.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69219a22-1190-415b-8950-f61c9243828b.JPG">]]></description>
-            <link>https://thegrid.ai/ricardo-harvin/8cd10ec2-e402-41a9-8503-2f61a32b42d1/index.html</link>
+            <link>http://ricardoharvin.com/8cd10ec2-e402-41a9-8503-2f61a32b42d1/index.html</link>
             <guid isPermaLink="false">8cd10ec2-e402-41a9-8503-2f61a32b42d1</guid>
             <pubDate>Sat, 20 Feb 2016 08:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bcb4b63-eb37-4e42-93d6-a328f8ec24c7.JPG" alt="" title="">]]></description>
+            <link>http://ricardoharvin.com/963a1005-e424-4645-a352-01f98461ba57/index.html</link>
+            <guid isPermaLink="false">963a1005-e424-4645-a352-01f98461ba57</guid>
+            <pubDate>Sat, 20 Feb 2016 08:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
